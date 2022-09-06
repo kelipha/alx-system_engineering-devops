@@ -5,3 +5,4 @@
 4-lastlines	-	Display the last 10 lines of /etc/passwd
 5-firstlines	-	Displays the first 10 lines of /etc/passwd
 6-third_line	-	Third line of iacta
+7-file	-	Best School save ending by a new line
