@@ -6,3 +6,5 @@
 5-firstlines	-	Displays the first 10 lines of /etc/passwd
 6-third_line	-	Third line of iacta
 7-file	-	Best School save ending by a new line
+8-cwd_state	-	Save current state of directory
+9-duplicate_last_line	-	Duplicates the last line of file iacta
