@@ -21,3 +21,7 @@
 20-hiago	-	remove c and Cfrom input
 21-reverse	-	reverse input
 22-users_and_homes	-	displays all users and their home dir, sorted by users
+100_empty-casks		-	finds all empty foles dir, subdir; unhide files
+101-gifs	-	lists all files with .gif ext, reg files sort by bytes, no ext only names
+102-acrostic	-	decode acrostics
+103-the_biggest_fan	-	parse web server logs in TSV format
