@@ -9,3 +9,4 @@
 8-cwd_state	-	Save current state of directory
 9-duplicate_last_line	-	Duplicates the last line of file iacta
 10-no_more_js	-	deletes all the regular files (not dir) with .js ext in current folder and subfolder
+11-directories	-	Count directories
